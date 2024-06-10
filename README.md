@@ -1,7 +1,7 @@
 # Development-Portfolio
 
 Developed using **React**.\
-**"Development-Portfolio"** My portfolio in the field of development is shown and in addition it is also in the air
+Crafted with React, my portfolio—Development-Portfolio—showcases my expertise in development. Explore it live at portfolio-iz63.vercel.app/.
 
 ## Running the Project
 
